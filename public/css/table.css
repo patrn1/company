@@ -1,0 +1,12 @@
+.table-wrapper {
+    margin: 100px auto 0;
+    padding: 0 50px;
+    max-width: 960px;
+}
+.table-wrapper table {
+    width: 100%;
+}
+.table-wrapper td {
+    padding: 5px;
+    vertical-align: top;
+}

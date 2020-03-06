@@ -1,0 +1,11 @@
+
+.custom-file * {
+    cursor: pointer;
+}
+.form-wrapper {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    margin-top: 100px;
+}
