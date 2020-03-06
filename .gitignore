@@ -5,6 +5,7 @@
 /public/css
 /storage/*.key
 /vendor
+.env
 .env.testing
 .env.backup
 .phpunit.result.cache
